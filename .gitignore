@@ -1,0 +1,9 @@
+.DS_Store
+completed_exercises/
+exercises/anagrams/index.js
+exercises/capitalize/index.js
+exercises/chunk/index.js
+exercises/fizzbuzz/index.js
+exercises/palindrome/index.js
+exercises/reverseint/index.js
+exercises/reversestring/index.js
