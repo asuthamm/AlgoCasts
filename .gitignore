@@ -1,8 +1,9 @@
 .DS_Store
 .gitignore
+diagrams/
 completed_exercises/
 
-exercises/capitalize/index.js
+
 exercises/chunk/index.js
 exercises/fizzbuzz/index.js
 exercises/palindrome/index.js
