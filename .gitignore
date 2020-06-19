@@ -4,7 +4,7 @@ diagrams/
 completed_exercises/
 
 
-exercises/chunk/index.js
+# exercises/chunk/index.js
 exercises/fizzbuzz/index.js
 exercises/palindrome/index.js
 exercises/reverseint/index.js
