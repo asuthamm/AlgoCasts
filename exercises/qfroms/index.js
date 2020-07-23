@@ -44,6 +44,6 @@ class Queue {
     return rec;
   }
  }
- 
+
 
 module.exports = Queue;
